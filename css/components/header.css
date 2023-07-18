@@ -38,7 +38,7 @@ header .header__right .header__image::after {
 header .header__right .header__image .lucas {
     border-radius: 0.5rem;
     min-width: 25rem;
-    max-width: 100%;
+    max-width: 35rem;
 }
 
 header .header__right .header__image .background {
