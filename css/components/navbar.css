@@ -13,6 +13,10 @@
     justify-content: space-between;
 }
 
+.navbar .navbar__content .logo {
+    max-width: 20rem;
+}
+
 .navbar .navbar__content .navbar__links li {
     display: inline-block;
 }

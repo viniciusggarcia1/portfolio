@@ -48,10 +48,6 @@ header .header__right .header__image .background {
     z-index: -1;
 }
 
-.navbar .navbar__content .logo {
-    max-width: 20rem;
-}
-
 @media only screen and (max-width: 768px) {
     header {
         flex-direction: column-reverse;
